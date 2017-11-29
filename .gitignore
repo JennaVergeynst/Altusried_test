@@ -1,7 +1,11 @@
 
 *.csv
+!/Users/jennavergeynst/Documents/Altusried/VPS_Test_Results_VEMCO/data/fish-csv/all.csv
+!/Users/jennavergeynst/Documents/Altusried/VPS_Test_Results_VEMCO/data/QGIS/studysite.csv
+!/Users/jennavergeynst/Documents/Altusried/VPS_Test_Results_VEMCO/data/Alle_GPS_tracks_10aug2017.csv
 
 *.xlsx
+!/Users/jennavergeynst/Documents/Altusried/VPS_Test_Results_VEMCO/data/Overview_coördinates_and_timing_range_test_set_ups.xlsx
 
 *.avi
 
